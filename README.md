@@ -1,91 +1,103 @@
 # Harshita Gupta - Portfolio
 
-A modern, interactive portfolio website showcasing my skills as a Full Stack Developer.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel)](https://harshita-gupta-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Harshita1298/Harshita_Gupta_portfolio)
 
-## 🚀 Live Demo
+A modern, interactive portfolio website showcasing expertise in Full Stack Development, featuring responsive design, smooth animations, and comprehensive project showcases.
 
-- **GitHub Pages**: [https://harshita1298.github.io/my-portfolio/](https://harshita1298.github.io/my-portfolio/)
-- **Vercel**: [https://my-portfolio.vercel.app/](https://my-portfolio.vercel.app/) (if deployed)
+## 🌟 Features
 
-## 📋 About
+- **Responsive Design**: Optimized for all devices and screen sizes
+- **Interactive UI**: Smooth animations and hover effects
+- **Skills Showcase**: Comprehensive tech stack display
+- **Project Gallery**: Featured projects with descriptions
+- **Resume Download**: Direct access to professional resume
+- **Contact Integration**: LinkedIn, GitHub, and email connectivity
 
-This portfolio features:
+## 🛠️ Tech Stack
 
-- Responsive design with smooth animations
-- Interactive navigation and sections
-- Skills showcase with tech stack
-- Project gallery
-- Resume download
-- Contact information
+### Frontend
+- **HTML5** - Semantic markup and structure
+- **CSS3** - Custom styling with animations
+- **JavaScript** - Interactive functionality and DOM manipulation
 
-## 🛠️ Technologies Used
-
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Styling**: Custom CSS with animations
-- **Icons**: SVG icons
-- **Deployment**: GitHub Pages / Vercel
+### Tools & Deployment
+- **SVG Icons** - Scalable vector graphics
+- **Git** - Version control
+- **Vercel** - Modern deployment platform
+- **GitHub Pages** - Static site hosting
 
 ## 📁 Project Structure
 
 ```
-portfolio/
-├── index.html      # Main HTML file
-├── style.css       # Styles and animations
-├── script.js       # Interactive functionality
-└── favicon.svg     # Site favicon
+Harshita_Gupta_portfolio/
+├── index.html          # Main HTML document
+├── style.css           # Custom styles and animations
+├── script.js           # JavaScript functionality
+├── favicon.svg         # Site favicon
+└── README.md           # Project documentation
 ```
 
-## 🏃‍♀️ How to Run Locally
+## 🚀 Getting Started
+
+### Prerequisites
+- Modern web browser (Chrome, Firefox, Safari, Edge)
+- Internet connection for external resources
+
+### Local Development
 
 1. **Clone the repository**
-
    ```bash
-   git clone https://github.com/Harshita1298/my-portfolio.git
-   cd my-portfolio
+   git clone https://github.com/Harshita1298/Harshita_Gupta_portfolio.git
+   cd Harshita_Gupta_portfolio
    ```
 
 2. **Open in browser**
-   - Open `index.html` in your web browser
-   - Or use a local server:
-
+   - Double-click `index.html` or
+   - Use a local server:
      ```bash
-     # Using Python
+     # Python 3
      python -m http.server 8000
 
-     # Using Node.js
+     # Node.js (if installed)
      npx serve .
      ```
 
-3. **View at**: `http://localhost:8000`
+3. **View locally**: `http://localhost:8000`
 
-## 📱 Features
+## 🌐 Live Deployment
 
-- **Responsive Design**: Works on all devices
-- **Smooth Animations**: CSS transitions and JavaScript effects
-- **Interactive Elements**: Hover effects and click interactions
-- **Fast Loading**: Optimized for performance
-- **SEO Friendly**: Proper meta tags and structure
+The portfolio is deployed on multiple platforms:
 
-## 📞 Contact
+- **Primary**: [Vercel](https://harshita-gupta-portfolio.vercel.app/)
+- **Backup**: [GitHub Pages](https://harshita1298.github.io/my-portfolio/)
 
-**Harshita Gupta**
+## 📊 Portfolio Highlights
 
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [https://github.com/Harshita1298]
+- **20+ GitHub Repositories** - Active coding projects
+- **8 Professional Certifications** - Continuous learning
+- **1 Internship Experience** - Industry exposure
+- **A++ Performance Grade** - Excellence recognition
+- **1st Division Diploma** - Academic achievement
 
-## 🎓 Education
+## 🎓 Education & Experience
 
-- BTech CSE @ DDU Gorakhpur University
+- **BTech CSE** - DDU Gorakhpur University
+- **Diploma** - BTEUP (1st Division)
+- **Star Performer** - Softpro India
+- **Available for Projects** - Open to meaningful collaborations
 
-## 💼 Skills
+## 📞 Connect With Me
 
-- **Backend**: Java, Spring Boot
-- **Frontend**: React, Node.js, Express
-- **Mobile**: Android Development
-- **Database**: MongoDB, MySQL
-- **Tools**: Git, Docker, AWS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshita-gupta-970611296)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Harshita1298)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@harshita__19dm)
+[![Email](https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail)](mailto:harshitagupta192812@gmail.com)
+
+## 📝 License
+
+This project is private and not available for public use or distribution.
 
 ---
 
-⭐ Star this repo if you found it helpful!
+⭐ **Star this repository** if you found it inspiring!
