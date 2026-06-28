@@ -17,11 +17,13 @@ A modern, interactive portfolio website showcasing expertise in Full Stack Devel
 ## 🛠️ Tech Stack
 
 ### Frontend
+
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Custom styling with animations
 - **JavaScript** - Interactive functionality and DOM manipulation
 
 ### Tools & Deployment
+
 - **SVG Icons** - Scalable vector graphics
 - **Git** - Version control
 - **Vercel** - Modern deployment platform
@@ -41,12 +43,14 @@ Harshita_Gupta_portfolio/
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - Internet connection for external resources
 
 ### Local Development
 
 1. **Clone the repository**
+
    ```bash
    git clone https://github.com/Harshita1298/Harshita_Gupta_portfolio.git
    cd Harshita_Gupta_portfolio
@@ -55,6 +59,7 @@ Harshita_Gupta_portfolio/
 2. **Open in browser**
    - Double-click `index.html` or
    - Use a local server:
+
      ```bash
      # Python 3
      python -m http.server 8000
